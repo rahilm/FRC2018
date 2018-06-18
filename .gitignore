@@ -2,3 +2,5 @@
 /Debug/
 /build/
 /build/*
+/.gradle/
+/.gradle/*
